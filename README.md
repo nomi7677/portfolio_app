@@ -1,3 +1,25 @@
+Useful links for this app are:
+
+https://getbootstrap.com/docs/4.0/components/navbar/
+
+https://getbootstrap.com/docs/5.0/components/navbar/
+
+https://fonts.google.com/specimen/Roboto+Condensed#standard-styles
+
+
+// for J Querry part on menu bars
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+// adding react font awesome
+https://www.npmjs.com/package/@fortawesome/react-fontawesome
+https://fontawesome.com/v5.15/how-to-use/on-the-web/using-with/react
+
+// installed react-typed
+https://www.npmjs.com/package/react-typed
+
+// react particles.js library
+https://www.npmjs.com/package/react-particles-js
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
